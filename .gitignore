@@ -1,0 +1,11 @@
+# Secrets
+.env
+firmware/soil_moisture_monitor/secrets.h
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
